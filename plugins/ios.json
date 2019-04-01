@@ -1,0 +1,64 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "org.phonegapMap.sample"
+    },
+    "cordova-plugin-camera": {
+      "CAMERA_USAGE_DESCRIPTION": " ",
+      "PHOTOLIBRARY_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "org.phonegapMap.sample"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "org.phonegapMap.sample"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "org.phonegapMap.sample"
+    },
+    "cordova-plugin-geolocation": {
+      "GEOLOCATION_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "org.phonegapMap.sample"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "org.phonegapMap.sample"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "org.phonegapMap.sample"
+    },
+    "cordova-plugin-media-capture": {
+      "CAMERA_USAGE_DESCRIPTION": " ",
+      "MICROPHONE_USAGE_DESCRIPTION": " ",
+      "PHOTOLIBRARY_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "org.phonegapMap.sample"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "org.phonegapMap.sample"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "org.phonegapMap.sample"
+    },
+    "cordova-plugin-googlemaps": {
+      "API_KEY_FOR_IOS": "AIzaSyBzTWTKaMEeABaeBSa3_E6ZMxseK4xXl4k",
+      "LOCATION_WHEN_IN_USE_DESCRIPTION": "This app wants to get your location while this app runs only.",
+      "LOCATION_ALWAYS_USAGE_DESCRIPTION": "This app wants to get your location always, even this app runs in background.",
+      "PACKAGE_NAME": "org.phonegapMap.sample"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "org.phonegapMap.sample"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "org.phonegapMap.sample"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "org.phonegapMap.sample"
+    }
+  }
+}
